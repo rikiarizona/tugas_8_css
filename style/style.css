@@ -1,0 +1,39 @@
+body {
+  background-image: url(../img/pantai.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+div {
+  width: 1200px;
+  height: 590px;
+  overflow: scroll;
+  background-image: url(../img/avocado.jpg);
+  background-repeat: repeat-y;
+  background-color: white;
+  background-size: 480px;
+  border: 2px solid black;
+}
+
+.satu {
+  color: blue;
+  text-align: right;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.dua {
+  color: green;
+  text-align: left;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.tiga {
+  color: red;
+  text-align: right;
+  font-size: 30px;
+  font-weight: bolder;
+  padding-right: 40px;
+}
